@@ -1,1 +1,1 @@
-Jogo de bingo ultilizando a biblioteca tk inter do python
+Jogo de bingo ultilizando a biblioteca tk inter do pitão
